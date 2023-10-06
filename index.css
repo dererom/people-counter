@@ -4,6 +4,7 @@ body {
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
+    display: flex;
 }
 
 .container {
@@ -47,4 +48,3 @@ button {
 #save-el {
     font-weight: bold;
 }
-
